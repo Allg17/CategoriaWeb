@@ -215,6 +215,8 @@
       <DependentUpon>CategoriaDbDataSet.xsd</DependentUpon>
     </Content>
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\Categoria - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\Categoria - Web Deploy.pubxml" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
